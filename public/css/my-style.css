@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@535&display=swap');
+
+@media (max-width: 575.98px) {
+    .kecil>p {
+        color: white;
+        font-family: 'Spartan', sans-serif;
+        font-size: 13px;
+        display: inline-block !important;
+    }
+}
+
+.kecil>p {
+    display: none;
+    font-family: 'Spartan', sans-serif;
+}
